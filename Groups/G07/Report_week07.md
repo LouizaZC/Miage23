@@ -16,6 +16,8 @@ On a separate note, I’m a bit behind on my chess project as I haven’t had mu
 ## Observations and Next Steps
 This initial exploration of the Visitor pattern gave me a basic understanding of its mechanics. My next step is to keep practicing in class to strengthen my grasp of this pattern and also to progress on the chess project as time allows.
 
+## Repositories:
+https://github.com/wassimAbouDaher/StonePaperScissors
 
 # ZIANE CHAOUCHE Louiza
 
